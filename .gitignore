@@ -1,0 +1,19 @@
+# Modele (za duże na GitHub)
+models/
+
+# Środowisko wirtualne
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db

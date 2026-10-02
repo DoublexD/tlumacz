@@ -1,0 +1,12 @@
+numpy
+faster-whisper>=1.1.0
+PyAudioWPatch
+proc-tap
+psutil
+silero-vad
+transformers>=4.40
+torch
+sentencepiece
+sacremoses
+nvidia-cublas-cu12
+nvidia-cudnn-cu12==9.*
